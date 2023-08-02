@@ -9,7 +9,7 @@ const Startup = ({ navigation }: ApplicationScreenProps) => {
   const { Layout, Gutters } = useTheme();
 
   const init = async () => {
-    await new Promise(resolve =>
+    await new Promise((resolve) =>
       setTimeout(() => {
         resolve(true);
       }, 2000),
