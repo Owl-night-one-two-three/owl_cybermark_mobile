@@ -7,14 +7,35 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!--
+- Please specify a label(If you don't know the correct label, ask @dungnt-igap)
+- Please add your issue to the Github projects
+-->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+DESCRIPTION
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+TARGET MODULES / PAGES / SCREENS / APPS
+---
+
+<!--
+If there are no relevant items, there is no need to select them.
+-->
+
+
+REFERENCE
+---
+
+#### Designs
+
+<!-- Link to designs -->
+
+#### Docs
+
+<!-- Link to docs -->
+
+#### Predecessor
+
+<!-- Link to related task -->
